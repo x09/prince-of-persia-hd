@@ -1,12 +1,19 @@
 # PoPHD — Prince of Persia HD for Linux
 
+<img width="1280" height="800" alt="Prince of Persia HD" src="https://github.com/user-attachments/assets/df854895-e0b6-4ed2-a6aa-c49b163af539" />
+
 This project began as an attempt to analyse Jordan Mechner's original
 [Prince of Persia source code for the Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 and rewrite the game for Linux using GCC, Make, SDL2 and SDL2_image.
 
 After translating the assembly code and getting the original game running on
-Linux, the Apple II implementation was set aside. Development moved to
-[SDLPoP](https://github.com/NagyD/SDLPoP), the native C/SDL port based on the
+Linux, the Apple II implementation was set aside. 
+
+| 5% of the workflow | 90% of the workflow |
+| :---: | :---: |
+| <img width="40%" height="40%" alt="Apple II PoP" src="https://github.com/user-attachments/assets/f0be88ce-9561-4746-804c-9e752126bcda" /> |<img width="40%" height="40%" alt="Apple II PoP" src="https://github.com/user-attachments/assets/36dfd912-3869-42a0-a091-cf8301119ae1" /> |
+
+Development moved to [SDLPoP](https://github.com/NagyD/SDLPoP), the native C/SDL port based on the
 disassembly of the DOS version. This became the foundation of the current game.
 The earlier Apple II work remains part of the project's history; the release
 source archive contains the maintained DOS-based implementation.
@@ -16,6 +23,16 @@ a replacement opening presentation and soundtrack, and improvements to the
 rendering of animation, traps and scenery. Development and artwork were
 AI-assisted. The familiar platforming, sword fighting and puzzles remain,
 with a few hidden abilities added for the hero :)
+
+
+| Old graphics | HD |
+| :---: | :---: |
+| <img width="1156" height="715" alt="изображение" src="https://github.com/user-attachments/assets/2444443b-3973-4f59-9191-67107fc50530" /> | <img width="1152" height="714" alt="изображение" src="https://github.com/user-attachments/assets/cbaaa06f-feab-47b7-9b5d-9fa9bfcd18b6" /> |
+
+<img width="1440" height="780" alt="prince" src="https://github.com/user-attachments/assets/62f7c8ad-4cea-433b-9db7-6174fd475593" />
+
+<img width="1000" height="320" alt="characters" src="https://github.com/user-attachments/assets/cbce5826-d8ca-4490-994e-a85eca37a0ff" />
+
 
 Project: [github.com/x09/prince-of-persia-hd](https://github.com/x09/prince-of-persia-hd).
 [Русская версия](README-ru.md).
