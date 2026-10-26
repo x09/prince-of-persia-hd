@@ -1,0 +1,12 @@
+VDUNGEON 237 source=27,44,191,356 output=128x240
+VDUNGEON 238 source=389,44,223,115 output=128x64
+VDUNGEON 239 source=736,44,155,355 output=104x248
+VDUNGEON 240 source=1112,44,190,115 output=104x64
+VDUNGEON 286 source=1474,44,186,357 output=128x240
+VDUNGEON 287 source=28,487,155,356 output=104x248
+VDUNGEON 288 source=385,487,149,356 output=92x240
+VDUNGEON 289 source=735,487,93,356 output=60x252
+VDUNGEON 290 source=1096,487,125,44 output=68x24
+VDUNGEON 291 source=1473,487,123,356 output=84x252
+VDUNGEON 233 painted gate surface output=168x24 vertical-period=16
+VDUNGEON 234 painted gate surface output=168x24 vertical-period=16

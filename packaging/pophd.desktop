@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=PoPHD
+GenericName=Persian palace platform adventure
+GenericName[ru]=Приключение в персидском дворце
+Comment=Classic Prince of Persia gameplay with HD artwork
+Comment[ru]=Классический Prince of Persia с HD-графикой
+Exec=pophd
+TryExec=pophd
+Icon=pophd
+Terminal=false
+Categories=Game;ActionGame;
+StartupNotify=false

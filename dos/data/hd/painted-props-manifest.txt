@@ -1,0 +1,13 @@
+PV 953 sheet=hourglass-sheet cell=0 target=76x112 native-ink=0,0..18,27
+PV 954 sheet=hourglass-sheet cell=1 target=76x112 native-ink=0,0..18,27
+PV 955 sheet=hourglass-sheet cell=2 target=76x112 native-ink=0,0..18,27
+PV 956 sheet=hourglass-sheet cell=3 target=76x112 native-ink=0,0..18,27
+PV 957 sheet=hourglass-sheet cell=4 target=76x112 native-ink=0,0..18,27
+PV 958 sheet=hourglass-sheet cell=5 target=76x112 native-ink=0,0..18,27
+PV 959 sheet=hourglass-sheet cell=6 target=76x112 native-ink=0,0..18,27
+PRINCE 160 sheet=items-sheet cell=0 target=128x40 native-ink=0,5..31,7
+PRINCE 161 sheet=items-sheet cell=1 target=128x40 native-ink=0,3..31,9
+PRINCE 162 sheet=items-sheet cell=2 target=40x44 native-ink=0,0..9,10
+PRINCE 163 sheet=items-sheet cell=3 target=40x60 native-ink=0,0..9,14
+PRINCE 164 sheet=items-sheet cell=4 target=40x44 native-ink=0,0..9,10
+PRINCE 165 sheet=items-sheet cell=5 target=40x60 native-ink=0,0..9,14

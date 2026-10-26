@@ -1,0 +1,9 @@
+8 cells: 256x208; torso/head anchor x=96; feet y=192; frames DOS 7..14
+frame 7: source 69 43 273 439 area=50118 target=75 23 106 170
+frame 8: source 443 43 339 430 area=53521 target=70 23 134 170
+frame 9: source 843 42 323 440 area=52818 target=77 23 125 170
+frame 10: source 1238 47 257 436 area=43371 target=77 23 101 170
+frame 11: source 70 543 292 433 area=52150 target=76 23 115 170
+frame 12: source 447 536 347 431 area=53892 target=77 23 137 170
+frame 13: source 840 532 343 438 area=53522 target=77 23 133 170
+frame 14: source 1255 545 239 430 area=45550 target=76 23 95 170
